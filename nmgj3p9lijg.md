@@ -5,4 +5,4 @@
 | GFF3 | Genomic Feature Format | [Spec](https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md) [sequence ontology](http://www.sequenceontology.org) | [Todd Harris](https://github.com/kiwiroy/gff3_validator/tree/f/neaten) |
 | BAM/SAM | Alignments | | | 
 | AGP | coordinates | | | 
-| YAML | Metd
+| YAML | Met
