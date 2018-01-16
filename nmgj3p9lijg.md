@@ -4,5 +4,5 @@
 | FASTQ | Raw Sequence Data | [standard](https://en.wikipedia.org/wiki/FASTQ_format) | fastqx |
 | GFF3 | Genomic Feature Format | [Spec](https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md) [sequence ontology](http://www.sequenceontology.org) | [Todd Harris](https://github.com/kiwiroy/gff3_validator/tree/f/neaten) |
 | BAM/SAM | Alignments |[Sequence Alignment/Map Format Specification](http://samtools.github.io/hts-specs/SAMv1.pdf) | [Picard](https://broadinstitute.github.io/picard/command-line-overview.html#ValidateSamFile) or [BamUtil](https://genome.sph.umich.edu/wiki/BamUtil:_validate)| 
-| AGP | coordinates |[AGP  | | 
+| AGP | coordinates |[AGP 2. | | 
 | YAML | Meta data | | | 
