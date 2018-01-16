@@ -5,4 +5,4 @@
 | GFF3 | Genomic Feature Format | [Spec](https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md) [sequence ontology](http://www.sequenceontology.org) | [Todd Harris](https://github.com/kiwiroy/gff3_validator/tree/f/neaten) |
 | BAM/SAM | Alignments |[Sequence Alignment/Map Format Specification](http://samtools.github.io/hts-specs/SAMv1.pdf) | [Picard](https://broadinstitute.github.io/picard/command-line-overview.html#ValidateSamFile) or [BamUtil](https://genome.sph.umich.edu/wiki/BamUtil:_validate)| 
 | AGP | coordinates |[AGP Specification v2.0?](https://www.ncbi.nlm.nih.gov/assembly/agp/AGP_Specification/) |[NCBI agp_validate tool](https://www.ncbi.nlm.nih.gov/assembly/agp/AGP_Validation/) | 
-| YAML | Meta data | YAML 1.2 (http://www.yaml.org/spec/1.2/spec.html) | [YAML validate](https://github.com/adrienverge/yamllint) | 
+| YAML | Meta data | YAML 1.2 spe(http://www.yaml.org/spec/1.2/spec.html) | [YAML validate](https://github.com/adrienverge/yamllint) | 
