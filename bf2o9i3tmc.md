@@ -1,6 +1,6 @@
 - GitHub repo containing the workflow. The workflow needs to run.
 - FASTA of super-scaffolds / chromosomes
-- FA of scaffolds
+- FASTA of scaffolds
 - fasta of contigs
 - AGP files mapping contigs to scaffolds and scaffolds to super scaffolds
 - GFF Repeats
