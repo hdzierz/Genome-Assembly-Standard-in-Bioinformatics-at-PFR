@@ -2,7 +2,7 @@
 - FASTA of super-scaffolds / chromosomes
 - FASTA of scaffolds
 - FASTA of contigs
-- FASTA rep
+- FASTA repeat masked
 - AGP files mapping contigs to scaffolds and scaffolds to super scaffolds
 - GFF Repeats
 - GFF with gene models where available
