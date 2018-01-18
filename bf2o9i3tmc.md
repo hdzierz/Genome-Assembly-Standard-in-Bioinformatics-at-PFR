@@ -1,5 +1,5 @@
 - GitHub repo containing the workflow. The workflow needs to run.
-- fasta of super-scaffolds / chromosomes
+- F of super-scaffolds / chromosomes
 - fasta of scaffolds
 - fasta of contigs
 - AGP files mapping contigs to scaffolds and scaffolds to super scaffolds
