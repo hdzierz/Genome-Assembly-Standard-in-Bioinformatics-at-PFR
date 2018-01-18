@@ -3,4 +3,4 @@
 - fasta of scaffolds
 - fasta of contigs
 - AGP files mapping contigs to scaffolds and scaffolds to super scaffolds
-- Inde
+- Indo
