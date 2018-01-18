@@ -5,5 +5,5 @@
 - AGP files mapping contigs to scaffolds and scaffolds to super scaffolds
 - GFF Repeats
 - GFF with gene models where available
-- GFF with liftovers where appli
+- GFF with liftovers where appl
 - Indices
