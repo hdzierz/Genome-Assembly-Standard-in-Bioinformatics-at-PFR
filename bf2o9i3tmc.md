@@ -5,5 +5,5 @@
 - AGP files mapping contigs to scaffolds and scaffolds to super scaffolds
 - GFF Repeats
 - GFF with gene models where available
-- GFF wi
+- GFF with lift
 - Indices
