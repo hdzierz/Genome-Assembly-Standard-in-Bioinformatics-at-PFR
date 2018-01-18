@@ -4,5 +4,6 @@
 - fasta of contigs
 - AGP files mapping contigs to scaffolds and scaffolds to super scaffolds
 - GFF Repeats
-- GFF with gene models where availabl
+- GFF with gene models where available
+- 
 - Indices
