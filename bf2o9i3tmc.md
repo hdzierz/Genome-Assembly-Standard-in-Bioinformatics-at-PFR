@@ -1,7 +1,7 @@
 - GitHub repo containing the workflow. The workflow needs to run.
 - FASTA of super-scaffolds / chromosomes
 - FASTA of scaffolds
-- FA of contigs
+- FASTA of contigs
 - AGP files mapping contigs to scaffolds and scaffolds to super scaffolds
 - GFF Repeats
 - GFF with gene models where available
