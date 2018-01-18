@@ -2,4 +2,4 @@
 - fasta of super-scaffolds / chromosomes
 - fasta of scaffolds
 - fasta of contigs
-- AGP files mapp
+- AGP files mapping 
