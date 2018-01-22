@@ -8,4 +8,4 @@
 - GFF with gene models where available
 - GFF with liftovers where applicable
 - Indices
-- Linkage maps (if used during assembly)
+- Linkage maps (if used during assembl)
