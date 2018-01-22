@@ -8,4 +8,4 @@
 - GFF with gene models where available
 - GFF with liftovers where applicable
 - Indices
-- Linkage maps (Linkage maps (if used during scaffold assignment) in standard format or links to maps in Git
+- Linkage maps if no(Linkage maps (if used during scaffold assignment) in standard format or links to maps in Git
