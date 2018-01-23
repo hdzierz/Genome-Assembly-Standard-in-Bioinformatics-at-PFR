@@ -9,4 +9,4 @@
 - GFF with liftovers where applicable
 - Indices
 - Linkage maps if used during scaffold assignment and if not otherwise included in another Git repo
-- FASTA of markers if used and not otherwise available
+- FASTA of markers if used and not otherwise available elsew
