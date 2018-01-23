@@ -9,4 +9,4 @@
 - GFF with liftovers where applicable
 - Indices
 - Linkage maps if used during scaffold assignment and if not otherwise included in another Git repo
-- Mark
+- Marker
