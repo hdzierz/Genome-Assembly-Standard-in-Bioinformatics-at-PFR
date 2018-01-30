@@ -6,6 +6,8 @@ nmgj3p9lijg.md
 bqs3glma5vo.html
 pipgfsqpk2o.md
 h4uc1i8kit.html
+98k9da1sl3g.md
+lggh6hlg04o.html
 c8p3tu8ct9.html
 qs9i7na6id.md
 7t39cqbjnr.html
