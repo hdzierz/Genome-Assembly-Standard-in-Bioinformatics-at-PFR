@@ -1,6 +1,6 @@
-- Post on yammer
+Post on yammer
 - Targeted feedback from
-- John McCallum
+  - John McCallum
   - David Chagne
   - Paul Datson
   - ?
