@@ -1,5 +1,5 @@
 Post on yammer
-- Targeted feedback from 
+- Targeted feedback from
   - John McCallum
   - David Chagne
   -
