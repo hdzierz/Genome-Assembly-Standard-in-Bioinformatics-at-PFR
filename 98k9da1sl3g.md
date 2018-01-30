@@ -1,3 +1,3 @@
-- Post on yammer
+Post on yammer
 - Targeted feedback from 
   - 
