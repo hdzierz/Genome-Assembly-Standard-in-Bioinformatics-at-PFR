@@ -5,7 +5,7 @@
   - id_type: chromosome, nonchromosomal, seqlevel (scaffold, chuck, clone), top_level
   - id (optional): sequence identifier (e.g. 1 for chr1). Not specified when id_type = top_level
 - FASTQ: 
-  - \<sample_name\>_\<flowcell_ID\>_\<index_lane\>_\<readNum\>_fastq.gz
+  - AGRF\<sample_name\>_\<flowcell_ID\>_\<index_lane\>_\<readNum\>_fastq.gz
 - BAM and BAI: \<sample_name\>_\<mapping_tool\>_\<ref_genome_build\>.bam
 - GFF3:\<species\>[.cultivar].\<assembly_build\>.\<sequence_type\>.\<id_type\>.\<id\>.\<purpose\>.gff3.gz
 - AGP: \<species\>[.cultivar].\<assembly_build\>.\<sequence_type\>.\<id_type\>.\<id\>.\<purpose\>.agp.gz
