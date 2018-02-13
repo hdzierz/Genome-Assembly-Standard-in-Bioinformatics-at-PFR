@@ -1,5 +1,5 @@
 - FASTA: \<species\>[.cultivar].\<assembly_build\>.\<sequence_type\>.\<id_type\>.\<id\>.fsa.gz
-  - species: The systematic name of the species
+ - species: The systematic name of the species
   - assembly: The assembly build name
   - sequence_type: dna, dna_rm (masked), dna_sm (soft masked), rna
   - id_type: chromosome, nonchromosomal, seqlevel (scaffold, chuck, clone), top_level
