@@ -3,7 +3,7 @@
     - assembly: The assembly build name
     - sequence_type: dna, dna_rm (masked), dna_sm (soft masked), rna
     - id_type: chromosome, nonchromosomal, seqlevel (scaffold, chuck, clone), top_level
-  - id (optional): sequence identifier (e.g. 1 for chr1). Not specified when id_type = top_level
+    - id (optional): sequence identifier (e.g. 1 for chr1). Not specified when id_type = top_level
 - FASTQ: 
   - AGRF: \<sample_name\>_\<flowcell_ID\>_\<index_lane\>_\<readNum\>_fastq.gz
 - BAM and BAI: \<sample_name\>_\<mapping_tool\>_\<ref_genome_build\>.bam
