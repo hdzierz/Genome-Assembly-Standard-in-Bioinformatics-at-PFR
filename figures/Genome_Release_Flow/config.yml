@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: 500px
+web-width: 150px
 align: center
 float: h!
 grid:
@@ -17,3 +17,4 @@ grid:
     - 1
     - 1
     url: "/users/76982/articles/278700/master/file/figures/Genome_Release_Flow/Genome_Release_Flow.png"
+    folder_url: "/users/76982/articles/278700/master/folder/figures/Genome_Release_Flow"
