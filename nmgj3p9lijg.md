@@ -1,6 +1,6 @@
 | Format | Use | Standard | Validator | 
 | ------ | ----- | ----- | ----- | 
-| FASTA | Assembly Sequence Data | [NCBI standard](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp) | perl::Bio, Biopyt |
+| FASTA | Assembly Sequence Data | [NCBI standard](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp) | perl::Bio, Biopython |
 | FASTQ | Raw Sequence Data | [standard](https://en.wikipedia.org/wiki/FASTQ_format) | fastqx |
 | GFF3 | Genomic Feature Format | [Spec](https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md) [sequence ontology](http://www.sequenceontology.org) | [Todd Harris](https://github.com/kiwiroy/gff3_validator/tree/f/neaten), [EVidenceModeler](https://github.com/EVidenceModeler/EVidenceModeler/blob/master/EvmUtils/gff3_gene_prediction_file_validator.pl), annotation GFF3 should be checked using [gffread](https://github.com/gpertea/gffread) (see also http://ccb.jhu.edu/software/stringtie/gff.shtml) and fasta to ensure the integrity of cds, cdna, and peptide  |
 | BAM/SAM | Alignments |[Sequence Alignment/Map Format Specification](http://samtools.github.io/hts-specs/SAMv1.pdf) | [Picard](https://broadinstitute.github.io/picard/command-line-overview.html#ValidateSamFile) or [BamUtil](https://genome.sph.umich.edu/wiki/BamUtil:_validate)| 
